@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="{{ STATIC_URL }}css/bootstrap.min.css" rel="stylesheet" />
+    <link href="{{ STATIC_URL }}css/style.css" rel="stylesheet" />
+    <title>Website</title>
+  </head>
+  <body>
+
+    <header>
+      <h1>Website</h1>
+    </header>
+
+	<section>
+        {% block content %}{% endblock %}
+    </section>
+
+    <footer>
+      <p>name</p>
+    </footer>
+</body>
+</html>
