@@ -9,7 +9,7 @@ title: home
 
   {{ post.content }}
 
-  <p class="keepreading">
-    ... <a href="{{ post.url }}">Read the whole Post</a>
-  </p>
+  <div class="postfoot postflow">
+    <a href="{{ post.url }}">...read the whole post</a>
+  </div>
 {% endfor %}
