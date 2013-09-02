@@ -1,6 +1,6 @@
 ---
 layout: main
-title: home
+title: Oculata Certitudine
 ---
 
 {% for post in site.posts %}
