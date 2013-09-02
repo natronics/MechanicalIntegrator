@@ -2,7 +2,7 @@
 layout: base
 ---
 <div class="row">
- <div class="col-lg-10 col-lg-offset-1">
+ <div class="col-lg-8 col-lg-offset-1">
 
     <h2>{{ page.title }}</h2>
     <p class="byline">By Nathan | {{ page.date | date_to_long_string }}</p>
@@ -35,7 +35,7 @@ layout: base
             {% endif %}
 
             {% if page.next %}
-                <a href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
+                <a class="pull-right" href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
             {% endif %}
         </div>
     </div>

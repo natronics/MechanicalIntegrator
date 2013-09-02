@@ -5,7 +5,78 @@ body > .wrapper { height: auto; min-height: 100%; }
 
 body {
     font-size: 16px;
+    font-family: 'Lora', serif;
 }
+
+h2, h3, h4 {
+    font-family: 'Lora', serif;
+}
+
+#header {
+    background: #181e24;
+    border-top: 9px solid #000;
+    color: #fff;
+    height: 180px;
+}
+
+    #header h1 {
+        font-family: 'Cabin Sketch', serif;
+        font-size: 3.0em;
+        font-weight: 700;
+        border-bottom: 1px solid #242a30;
+        margin-top: 50px;
+    }
+
+    #header p {
+        color: #eee;
+        font-size: 0.75em;
+        font-style: italic;
+    }
+
+#nav {
+    background: #b5d1ea;
+    color: #fff;
+    font-size: 0.8em;
+    margin-bottom: 40px;
+}
+
+    #nav ul {
+        padding: 0;
+        margin: 8px 0;
+        list-style: none;
+    }
+
+    #nav li {
+        float: left;
+    }
+
+    #nav a {
+        display: block;
+        background: #87b5dd;
+        color: #fff;
+        border-top: 1px solid #6da5d6;
+        margin-bottom: 8px;
+        margin-right: 10px;
+        padding: 4px 6px;
+    }
+
+
+.postfoot {
+    border-top: 1px solid #eee;
+    font-size: 0.9em;
+    color: #999;
+    margin-top: 33px;
+    padding-top: 4px;
+}
+
+.postflow {
+    margin-top: 15px;
+    font-style: italic;
+}
+
+    .postflow a {
+        color: #999;
+    }
 
 #footer {
     border-top: 1px solid #eee;
