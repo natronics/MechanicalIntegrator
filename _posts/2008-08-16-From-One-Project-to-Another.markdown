@@ -3,10 +3,6 @@ layout: post
 title: From One Project to Another
 ---
 
-# From One Project to Another
-
-<span class="byline">By NATHAN | Published: AUGUST 16, 2008</span>
-
 Over the last 8 months I have found myself busy with a number of interesting
 projects and hobbies. One of them has been keeping track of what's new on the
 web. In doing so I have noticed what a big deal online identity is. Now I
