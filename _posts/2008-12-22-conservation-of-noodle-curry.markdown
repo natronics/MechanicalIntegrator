@@ -17,6 +17,8 @@ on Canyon and
 [Thai Flavor](http://portland.citysearch.com/profile/44642367/)
 on Scholls Ferry.
 
+<!--more-->
+
 I noticed something about these two places though, one has amazing
 Pad Thai but the curries are lacking in punch. While the other has
 the best

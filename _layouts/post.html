@@ -14,19 +14,15 @@ layout: base
         <div class="meta">
             This entry was posted in 
             <span class="categories">
-                {% for cat in page.categories %}
-                    {{ cat }},
+                {% if page.categories != empty %}
+                    {{ page.categories | array_to_sentence_string }}
                 {%else %}
                     Uncategorized
-                {% endfor %}
+                {% endif %}
             </span>
             {% if page.tags != empty %}
                 and tagged
-                <span class="tags">
-                    {% for tag in page.tags %}
-                        {{ tag }},
-                    {% endfor %}
-                </span>.
+                <span class="tags">{{ page.tags | array_to_sentence_string }}</span>.
             {% endif %}
         </div>
         <div class="postflow">

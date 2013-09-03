@@ -18,6 +18,11 @@ templates for making cute little figures out of paper. So I decided to make a
 [Bender](http://en.wikipedia.org/wiki/Bender_%28Futurama%29). Here is how it went
 together:
 
+<!--more-->
+
 I started out by
 [printing out the little guy](http://www.cubeecraft.com/characters/character027.jpg).
 Then I cut out all the pieces and started folding.
+
+
+[![Starting](/resources/photos/paper-craft-1_small.jpg)](/resources/photos/paper-craft-1.jpg)

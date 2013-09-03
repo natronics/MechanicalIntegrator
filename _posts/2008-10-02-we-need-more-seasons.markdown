@@ -17,6 +17,8 @@ to go on too long. Spring is probably the worst. Yeah you get flowers and
 gardens, but in mostly all you get is a few warm days to tease you and a whole
 bunch of rain.
 
+<!--more-->
+
 Fall on the other hand, is the best of both worlds. It's warm during the day and
 it's fairly dry, but it has all of the excitement of the coming winter built in.
 Nights get cooler, the sweaters come out of the closet. Dark, malty beers flow

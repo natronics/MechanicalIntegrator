@@ -7,7 +7,7 @@ title: Oculata Certitudine
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="byline">By Nathan | {{ post.date | date_to_long_string }}</p>
 
-  {{ post.content }}
+  {{ post.content | split:'<!--more-->' | first }}
 
   <div class="postfoot postflow">
     <a href="{{ post.url }}">...read the whole post</a>
