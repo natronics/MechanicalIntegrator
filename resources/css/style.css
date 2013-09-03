@@ -83,6 +83,14 @@ h4 a {
         font-style: italic;
     }
 
+.gallery {
+    font-size: 0.75em;
+    margin-bottom: 25px;
+}
+
+    .gallery .caption { padding-bottom: 0; }
+    .gallery .caption p { margin-bottom: 0; }
+
 .postfoot {
     border-top: 1px solid #eee;
     font-size: 0.9em;
