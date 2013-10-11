@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_mathjax
 title: Conservation of Noodle-Curry
 categories: [Food, Pacific NW]
 tags: [Beaverton, curry, Food, noodle, Thai]
