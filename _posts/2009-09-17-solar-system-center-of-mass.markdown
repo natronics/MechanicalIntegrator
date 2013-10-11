@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_mathjax
 title: Solar System Center of Mass
 categories : [Science]
 tags: [Science, space]
@@ -48,7 +48,7 @@ Lets actually look at some numbers:
  Mercury | 5.78×10<sup>12</sup>                 | 3.3×10<sup>26</sup>     | 0.000017
  Venus   | 1.08×10<sup>13</sup>                 | 4.87×10<sup>27</sup>    | 0.00024
  Earth   | 1.50×10<sup>13</sup>                 | 5.98×10<sup>27</sup>    | 0.00030
- Mars    | 2.28×10<sup>13</sup>                 | 6.5×10<sup>26</sup>     |0.000033
+ Mars    | 2.28×10<sup>13</sup>                 | 6.5×10<sup>26</sup>     | 0.000033
  Jupiter | 7.79×10<sup>13</sup>                 | 1.90×10<sup>30</sup>    | 0.095
  Saturn  | 1.43×10<sup>14</sup>                 | 5.70×10<sup>29</sup>    | 0.029
  Uranus  | 2.88×10<sup>14</sup>                 | 8.7×10<sup>28</sup>     | 0.0043
@@ -58,9 +58,10 @@ Again you can really see just how massive the sun is. It accounts for
 about 99.866% of the mass in the solar system! If we use the equation above and
 plug in all the distances and masses and add it up we get:
 
-$$\boldsymbol{R} = \displaystyle\frac{2.9969\times 10^{44} \, [\mathrm{cm} \cdot \mathrm{g}]}{1.9917\times 10^{33} \, [\mathrm{g}]}
-
-\boldsymbol{R} = 1.51\times 10^{11} \, [\mathrm{cm}]$$
+$$\begin{align\*}
+ \boldsymbol{R} &= \frac{2.9969\times 10^{44} \, \[\mathrm{cm} \cdot \mathrm{g}\]}{1.9917\times 10^{33} \, \[\mathrm{g}\]}  \\\
+  &= 1.51\times 10^{11} \, \[\mathrm{cm}\]
+\end{align\*}$$
 
 
 Or in other words, the center of mass of the solar system, with all the

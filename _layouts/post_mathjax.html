@@ -1,0 +1,53 @@
+---
+layout: base
+---
+
+<script type="text/javascript" src="/resources/js/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [ ['$','$'] ],
+          processEscapes: true
+        },
+        TeX: { equationNumbers: { autoNumber: "AMS" } }
+      });
+</script>
+
+<div class="row">
+ <div class="col-lg-8 col-lg-offset-1">
+
+    <h2>{{ page.title }}</h2>
+    <p class="byline">By <span class="author">Nathan</span> | {{ page.date | date_to_long_string }}</p>
+
+    {{content}}
+
+
+    <div class="postfoot">
+        <div class="meta">
+            This entry was posted in 
+            <span class="categories">
+                {% if page.categories != empty %}
+                    {{ page.categories | array_to_sentence_string }}
+                {%else %}
+                    Uncategorized
+                {% endif %}
+            </span>
+            {% if page.tags != empty %}
+                and tagged
+                <span class="tags">{{ page.tags | array_to_sentence_string }}</span>.
+            {% endif %}
+        </div>
+        <div class="postflow">
+            {% if page.previous %}
+                <a href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+            {% endif %}
+
+            {% if page.next %}
+                <a class="pull-right" href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
+            {% endif %}
+        </div>
+    </div>
+
+ </div>
+</div>
