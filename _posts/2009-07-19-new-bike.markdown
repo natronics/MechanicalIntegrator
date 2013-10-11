@@ -1,0 +1,52 @@
+---
+layout: post
+title: New Bike!
+categories : [Projects]
+tags: [New Bike Project]
+---
+
+I've been thinking about getting a new bike for a while. But, being the frugal
+and practical person that I am (read: cheap) I couldn't really justify buying a
+brand new fancy bike when my trusty old trek works just fine. Recently one
+evening my rear brake cable broke and I thought to myself “I think this is a
+sign, it's about time to look for something new” (I know brake cables are easy
+enough to fix, but I really don't need much of an excuse).  I spent most of the
+next day at work thinking about what I should look for but on my way home I
+passed an old bike on the side of the road for free! What luck!
+
+<!--more-->
+
+<div class="gallery row">
+ <div class="col-sm-12 col-md-6">
+  <a class="thumbnail" href="/resources/photos/bike-1.jpg">
+   <img alt="the bike" src="/resources/photos/bike-1_small.jpg" class="responsive">
+  </a>
+ </div>
+ <div class="col-sm-12 col-md-6">
+  <a class="thumbnail" href="/resources/photos/bike-2.jpg">
+   <img alt="the bike close up" src="/resources/photos/bike-2_small.jpg" class="responsive">
+  </a>
+ </div>
+ <div class="col-sm-12 col-md-6">
+  <a class="thumbnail" href="/resources/photos/bike-3.jpg">
+   <img alt="the bike front" src="/resources/photos/bike-3_small.jpg" class="responsive">
+  </a>
+ </div>
+</div>
+
+Well it's not the best bike in the world—an old Schwinn Varsity that weighs
+a ton—but I like the way it looks.  Classic, sturdy, yellow...well the yellow
+will have to change.  So I have a new project. I'm going to restore the bike.
+Replace some of the heavier parts if I can and strip it down and repaint it. Oh
+yeah, and get a saddle. In fact I've already started.  I managed to take apart
+the thing entirely.  The head tube gave me some grief, but eventually I got
+down to just parts. One by one I am cleaning them and sanding them down to get
+ready to repaint.  Now if only I can decide on a color.
+
+<div class="gallery row">
+ <div class="col-sm-12 col-md-4 col-md-offset-4">
+  <a class="thumbnail" href="/resources/photos/bike-4.jpg">
+   <img alt="dissasembly" src="/resources/photos/bike-4_small.jpg" class="responsive">
+  </a>
+ </div>
+</div>
