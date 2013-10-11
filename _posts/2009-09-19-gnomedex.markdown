@@ -1,0 +1,17 @@
+---
+layout: post
+title: Gnomedex
+categories : [Pacific NW]
+tags: [conference, gnomedex, web]
+---
+
+![gnomedex badge](/resources/photos/gnomedex.jpg){: .pull-left}
+
+Just a quick note, I am going to be at [Gnomedex 9.0](http://www.gnomedex.com/)
+this week in Seattle.
+Gnomedex is the self-proclaimed "Technology Conference of Inspiration and
+Influence!" that attracts some of the leading bloggers and webby types from
+around the country. This is my first time attending and I don't really know
+what to expect but I hope to have fun! I'm bringing my camera so look for
+[pictures](http://www.flickr.com/photos/natronics) next week, and I might
+even post my thoughts here about some of the talks.
